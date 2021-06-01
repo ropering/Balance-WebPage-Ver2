@@ -9,6 +9,7 @@
 사용 환경 : 
 - Apache Tomcat 8.5 Server
 - Port Number : 8081
+- 실행 관련 파일들은 모두 WebContent 폴더에 존재
 
 <br>
 Features 
