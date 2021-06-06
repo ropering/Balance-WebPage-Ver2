@@ -1,3 +1,5 @@
+<iframe width="718" height="404" src="https://www.youtube.com/embed/o7HxnXRjVu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 프로젝트 명 : 밸런스 게임 웹 사이트
 
 사용 언어 : Java, JSP, Html, CSS, JavaScript, SQL
