@@ -1,5 +1,3 @@
-<iframe width="718" height="404" src="https://www.youtube.com/embed/o7HxnXRjVu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 프로젝트 명 : 밸런스 게임 웹 사이트
 
 사용 언어 : Java, JSP, Html, CSS, JavaScript, SQL
@@ -70,3 +68,7 @@ Features
 ![image](https://user-images.githubusercontent.com/50795314/120070292-b358db00-c0c4-11eb-98c3-796aee705630.png)
 메뉴 페이지
 ![image](https://user-images.githubusercontent.com/50795314/120104683-a73a4f80-c190-11eb-9d74-e4d6f85a4627.png)
+
+
+[![시연영상](http://img.youtube.com/vi/o7HxnXRjVu8/0.jpg)](https://youtu.be/o7HxnXRjVu8?t=0s) 
+https://www.youtube.com/watch?v=o7HxnXRjVu8
